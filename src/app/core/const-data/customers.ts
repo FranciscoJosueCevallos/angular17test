@@ -97,16 +97,5 @@ export const customers = [
         "notas": "Le encantan los animales",
         "foto": "female-05.jpg",
         "genero": "Femenino"
-    },
-    {
-        "id": 10,
-        "nombre_completo": "Luis García",
-        "telefono": "+593 987654330",
-        "correo_electronico": "luis.garcia@email.com",
-        "fecha_nacimiento": "2025-10-10",
-        "direccion": "Calle Guayaquil 2223",
-        "notas": "Es muy inteligente",
-        "foto": "male-05.jpg",
-        "genero": "Masculino"
     }
 ];
